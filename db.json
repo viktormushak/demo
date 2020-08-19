@@ -1,4 +1,10 @@
 {
+  "users": [
+    {"id": 1, "name": "Fake User 1", "age": "100"},
+    {"id": 2, "name": "Fake User 2", "age": "90"},
+    {"id": 3, "name": "Fake User 3", "age": "80"},
+    {"id": 4, "name": "Fake User 4", "age": "50"}
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
